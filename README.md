@@ -11,6 +11,9 @@ This project is a simple version of the classic Flappy Bird game. The player con
 - Navigate the bird through the gaps between the pipes to score points.
 - If the bird collides with the pipes or hits the top/bottom of the screen, the game ends.
 
+## Design Attribution
+
+The background, ground, and pipe assets used in this game are entirely designed by me, and they are not subject to any copyright or license restrictions. You are free to use these assets for your own projects if you find them helpful.
 ## Requirements
 
 - Python 3.x
